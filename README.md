@@ -1,6 +1,8 @@
 # MCPI-Skyblock
 A ported Skyblock for Minecraft: Pi edition
 
+![image](skyblock.png)
+
 ## Before playing
 This world is meant for [MCPI-Reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) **ONLY.**
 
