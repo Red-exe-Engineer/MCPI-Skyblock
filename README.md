@@ -15,6 +15,44 @@ Also I'd recommend setting your render distance to normal or far as the sand isl
 ## How to install
 Extract Skyblock.zip to `~/.miencraft-pi/games/com.mojang/minecraftWorlds`
 
+## What's new
+Moved sand island to X:64 Y:0 Z:0 (centered)
+
+Moved cactus to left side of sand island
+
+Moved chest to center of sand island
+
+Removed water at world border
+
+Added tall grass to starter island
+
+Changed items in chests
+
+Changed spawn tree to be natual
+
+## Chest items
+### Starter chest
+1 Ice            (79, 0)
+
+1 Lava bucket    (325, 10)
+
+### Sand island chest
+1  Sugar cane     (338, 0)
+
+1  Spruce sapling (6, 1)
+
+1  Birch sapling  (6, 2)
+
+1  Melon          (360, 0)
+
+1  Ice            (79, 0)
+
+3  Diamonds       (264, 0)
+
+6  Iron ingots    (265, 0)
+
+36 Gold ingots    (266, 0)
+
 ## Credits
 Skyblock: [Noobcrew](https://skyblock.net/members/noobcrew.1)
 
