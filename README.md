@@ -3,6 +3,9 @@ A ported Skyblock for Minecraft: Pi edition
 
 ![image](skyblock.png)
 
+## Pro tip
+![image](cobblestone_generator.png)
+
 ## Before playing
 This world is meant for [MCPI-Reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) **ONLY.**
 
