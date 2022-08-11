@@ -11,12 +11,7 @@ Because of this, make sure you are using MCPI-Reborn 2.4.0 or later.
 Also I'd recommend setting your render distance to normal or far as the sand island has been moved to 64 blocks away from spawn.
 
 ## How to install
-```sh
-cd (download dir)
-unzip Skyblock.zip
-mv Skyblock ~/.minecraft-pi/games/com.mojang/minecraftWorlds
-rm Skyblock.zip
-```
+Extract Skyblock.zip to `~/.miencraft-pi/games/com.mojang/minecraftWorlds`
 
 ## Credits
 Skyblock: [Noobcrew](https://skyblock.net/members/noobcrew.1)
